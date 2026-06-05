@@ -1,0 +1,39 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+}
+
+h2 {
+  color: #343a40;
+  font-weight: bold;
+}
+
+input[type="file"] {
+  border: 1px solid #ced4da;
+  padding: 10px;
+}
+
+button {
+  width: 100%;
+}
+
+#loading {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+table th {
+  background-color: #f1f1f1;
+  font-weight: 500;
+}
+
+table td {
+  background-color: #ffffff;
+}
+
+canvas {
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
